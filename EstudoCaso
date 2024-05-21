@@ -1,0 +1,108 @@
+Seção 1: Perfil do Usuário
+
+    Qual é a sua idade?
+        ( ) Menos de 18 anos
+        ( ) 18-24 anos
+        ( ) 25-34 anos
+        ( ) 35-44 anos
+        ( ) 45-54 anos
+        ( ) 55-64 anos
+        ( ) 65 anos ou mais
+
+    Qual é o seu nível de escolaridade?
+        ( ) Ensino fundamental
+        ( ) Ensino médio
+        ( ) Ensino superior
+        ( ) Pós-graduação
+        ( ) Outros (por favor, especifique): ____________
+
+    Qual é a sua ocupação atual?
+        ( ) Estudante
+        ( ) Empregado
+        ( ) Autônomo
+        ( ) Desempregado
+        ( ) Aposentado
+        ( ) Outros (por favor, especifique): ____________
+
+Seção 2: Uso Atual de Ferramentas de Organização
+
+    Você atualmente utiliza algum aplicativo ou ferramenta para gerenciar suas tarefas?
+        ( ) Sim
+        ( ) Não
+
+    Se sim, qual(is) aplicativo(s) ou ferramenta(s) você utiliza?
+        ( ) Google Keep
+        ( ) Microsoft To Do
+        ( ) Todoist
+        ( ) Trello
+        ( ) Notion
+        ( ) Outros (por favor, especifique): ____________
+
+    Com que frequência você usa estas ferramentas?
+        ( ) Várias vezes ao dia
+        ( ) Diariamente
+        ( ) Algumas vezes por semana
+        ( ) Raramente
+        ( ) Nunca
+
+Seção 3: Requisitos e Preferências
+
+    Quais funcionalidades você considera essenciais em um aplicativo de to-do list? (Marque todas que se aplicam)
+        ( ) Criação de tarefas
+        ( ) Definição de prazos
+        ( ) Notificações e lembretes
+        ( ) Organização por categorias ou projetos
+        ( ) Subtarefas
+        ( ) Prioridade de tarefas
+        ( ) Sincronização entre dispositivos
+        ( ) Integração com outros aplicativos (calendário, e-mail, etc.)
+        ( ) Colaboração com outras pessoas
+        ( ) Interface personalizável
+        ( ) Outros (por favor, especifique): ____________
+
+    Quais problemas você enfrenta com as ferramentas atuais? (Marque todas que se aplicam)
+        ( ) Interface complicada
+        ( ) Falta de sincronização
+        ( ) Lembretes ineficazes
+        ( ) Limitações nas funcionalidades
+        ( ) Dificuldade em organizar tarefas
+        ( ) Outros (por favor, especifique): ____________
+
+    Quão importante é para você a personalização do aplicativo (temas, cores, layout, etc.)?
+        ( ) Muito importante
+        ( ) Importante
+        ( ) Neutro
+        ( ) Pouco importante
+        ( ) Nada importante
+
+Seção 4: Dispositivos e Plataformas
+
+    Quais dispositivos você utiliza com mais frequência para gerenciar suas tarefas? (Marque todas que se aplicam)
+        ( ) Smartphone
+        ( ) Tablet
+        ( ) Computador/laptop
+        ( ) Smartwatch
+        ( ) Outros (por favor, especifique): ____________
+
+    Qual sistema operacional você usa em seu(s) dispositivo(s) principal(is)? (Marque todas que se aplicam)
+        ( ) Android
+        ( ) iOS
+        ( ) Windows
+        ( ) macOS
+        ( ) Linux
+        ( ) Outros (por favor, especifique): ____________
+
+Seção 5: Feedback Geral
+
+    Você estaria disposto a pagar por um aplicativo de to-do list que atendesse todas as suas necessidades?
+        ( ) Sim
+        ( ) Não
+
+    Se sim, qual faixa de preço você consideraria aceitável?
+        ( ) Até R$ 10,00 por mês
+        ( ) R$ 10,00 - R$ 20,00 por mês
+        ( ) R$ 20,00 - R$ 30,00 por mês
+        ( ) Mais de R$ 30,00 por mês
+        ( ) Pagamento único (por favor, especifique o valor): ____________
+
+    Você tem alguma sugestão ou comentário sobre o que gostaria de ver em um novo aplicativo de to-do list?

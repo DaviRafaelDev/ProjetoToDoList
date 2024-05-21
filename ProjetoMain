@@ -1,0 +1,23 @@
+Projeto Engenharia de Software - To Do List
+
+Requisitos Prévios
+
+-Gerenciar Tarefas Diárias
+-Definir Lembretes
+-Priorizar Atividades
+
+1 - Elicitação de Requisitos
+    -Elaborar as funcionalidades com base em opniões e comentários de potencias usuários(Stakeholders) interessados no projeto.
+
+2 - Análise de Requisitos
+    -Realizar engenharia e classificação dos requisitos com base nas informações coletadas na fase de Elicitação.
+    -Definir o grau de prioridades dos requisitos.
+
+3 - Documentação de Requisitos
+    -Criar uma documentação formal relacionada aos requisitos funcionais e não funcionais do projeto expressados de forma clara e concisa.
+
+4 - Prototipagem
+    -Desenvolver um protótipo contendo as principais funcionalidades do aplicativo
+
+5 - Validação de Requisitos
+    -Os clientes através de Feebacks pós experimentação do aplicativo fornecerão dados de satistação com a situação atual da aplicação tão como validarão os requisitos presentes

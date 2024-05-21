@@ -1,0 +1,190 @@
+Persona 1: João, o Estudante Universitário
+
+Idade: 21 anos
+Ocupação: Estudante de Engenharia
+Necessidades: Gerenciar tarefas acadêmicas, projetos de grupo e atividades extracurriculares.
+Dispositivos Usados: Smartphone e laptop.
+Tecnologia: Usuário de Android e Windows.
+
+Persona 2: Maria, a Profissional de TI
+
+Idade: 34 anos
+Ocupação: Gerente de Projetos de TI
+Necessidades: Organizar tarefas de trabalho, coordenar equipes e prazos de projetos, além de gerenciar tarefas pessoais.
+Dispositivos Usados: Smartphone, tablet e laptop.
+Tecnologia: Usuária de iOS e macOS.
+
+Persona 3: Carlos, o Autônomo
+
+Idade: 45 anos
+Ocupação: Designer Gráfico Freelancer
+Necessidades: Gerenciar projetos de clientes, prazos de entrega e tarefas administrativas.
+Dispositivos Usados: Smartphone e desktop.
+Tecnologia: Usuário de Android e Windows.
+
+Respostas ao Questionário de Elicitação:
+
+João
+
+    Qual é a sua idade?
+        (x) 18-24 anos
+
+    Qual é o seu nível de escolaridade?
+        (x) Ensino superior
+
+    Qual é a sua ocupação atual?
+        (x) Estudante
+
+    Você atualmente utiliza algum aplicativo ou ferramenta para gerenciar suas tarefas?
+        (x) Sim
+
+    Se sim, qual(is) aplicativo(s) ou ferramenta(s) você utiliza?
+        (x) Google Keep
+        (x) Trello
+
+    Com que frequência você usa estas ferramentas?
+        (x) Diariamente
+
+    Quais funcionalidades você considera essenciais em um aplicativo de to-do list?
+        (x) Criação de tarefas
+        (x) Definição de prazos
+        (x) Notificações e lembretes
+        (x) Organização por categorias ou projetos
+        (x) Subtarefas
+        (x) Sincronização entre dispositivos
+        (x) Integração com outros aplicativos (calendário, e-mail, etc.)
+
+    Quais problemas você enfrenta com as ferramentas atuais?
+        (x) Interface complicada
+        (x) Dificuldade em organizar tarefas
+
+    Quão importante é para você a personalização do aplicativo (temas, cores, layout, etc.)?
+        (x) Importante
+
+    Quais dispositivos você utiliza com mais frequência para gerenciar suas tarefas?
+        (x) Smartphone
+        (x) Computador/laptop
+
+    Qual sistema operacional você usa em seu(s) dispositivo(s) principal(is)?
+        (x) Android
+        (x) Windows
+
+    Você estaria disposto a pagar por um aplicativo de to-do list que atendesse todas as suas necessidades?
+        (x) Sim
+
+    Se sim, qual faixa de preço você consideraria aceitável?
+        (x) Até R$ 10,00 por mês
+
+    Você tem alguma sugestão ou comentário sobre o que gostaria de ver em um novo aplicativo de to-do list?
+        Gostaria de ver uma integração melhor com serviços de armazenamento na nuvem para anexar arquivos às tarefas.
+
+Maria
+
+    Qual é a sua idade?
+        (x) 25-34 anos
+
+    Qual é o seu nível de escolaridade?
+        (x) Pós-graduação
+
+    Qual é a sua ocupação atual?
+        (x) Empregado
+
+    Você atualmente utiliza algum aplicativo ou ferramenta para gerenciar suas tarefas?
+        (x) Sim
+
+    Se sim, qual(is) aplicativo(s) ou ferramenta(s) você utiliza?
+        (x) Microsoft To Do
+        (x) Trello
+
+    Com que frequência você usa estas ferramentas?
+        (x) Várias vezes ao dia
+
+    Quais funcionalidades você considera essenciais em um aplicativo de to-do list?
+        (x) Criação de tarefas
+        (x) Definição de prazos
+        (x) Notificações e lembretes
+        (x) Organização por categorias ou projetos
+        (x) Subtarefas
+        (x) Prioridade de tarefas
+        (x) Sincronização entre dispositivos
+        (x) Integração com outros aplicativos (calendário, e-mail, etc.)
+        (x) Colaboração com outras pessoas
+
+    Quais problemas você enfrenta com as ferramentas atuais?
+        (x) Lembretes ineficazes
+
+    Quão importante é para você a personalização do aplicativo (temas, cores, layout, etc.)?
+        (x) Muito importante
+
+    Quais dispositivos você utiliza com mais frequência para gerenciar suas tarefas?
+        (x) Smartphone
+        (x) Tablet
+        (x) Computador/laptop
+
+    Qual sistema operacional você usa em seu(s) dispositivo(s) principal(is)?
+        (x) iOS
+        (x) macOS
+
+    Você estaria disposto a pagar por um aplicativo de to-do list que atendesse todas as suas necessidades?
+        (x) Sim
+
+    Se sim, qual faixa de preço você consideraria aceitável?
+        (x) R$ 10,00 - R$ 20,00 por mês
+
+    Você tem alguma sugestão ou comentário sobre o que gostaria de ver em um novo aplicativo de to-do list?
+        Seria ótimo se o aplicativo pudesse integrar-se com ferramentas de comunicação como Slack e Microsoft Teams.
+
+Carlos
+
+    Qual é a sua idade?
+        (x) 45-54 anos
+
+    Qual é o seu nível de escolaridade?
+        (x) Ensino superior
+
+    Qual é a sua ocupação atual?
+        (x) Autônomo
+
+    Você atualmente utiliza algum aplicativo ou ferramenta para gerenciar suas tarefas?
+        (x) Sim
+
+    Se sim, qual(is) aplicativo(s) ou ferramenta(s) você utiliza?
+        (x) Todoist
+        (x) Notion
+
+    Com que frequência você usa estas ferramentas?
+        (x) Diariamente
+
+    Quais funcionalidades você considera essenciais em um aplicativo de to-do list?
+        (x) Criação de tarefas
+        (x) Definição de prazos
+        (x) Notificações e lembretes
+        (x) Organização por categorias ou projetos
+        (x) Subtarefas
+        (x) Prioridade de tarefas
+        (x) Sincronização entre dispositivos
+        (x) Integração com outros aplicativos (calendário, e-mail, etc.)
+
+    Quais problemas você enfrenta com as ferramentas atuais?
+        (x) Limitações nas funcionalidades
+        (x) Dificuldade em organizar tarefas
+
+    Quão importante é para você a personalização do aplicativo (temas, cores, layout, etc.)?
+        (x) Importante
+
+    Quais dispositivos você utiliza com mais frequência para gerenciar suas tarefas?
+        (x) Smartphone
+        (x) Computador/laptop
+
+    Qual sistema operacional você usa em seu(s) dispositivo(s) principal(is)?
+        (x) Android
+        (x) Windows
+
+    Você estaria disposto a pagar por um aplicativo de to-do list que atendesse todas as suas necessidades?
+        (x) Sim
+
+    Se sim, qual faixa de preço você consideraria aceitável?
+        (x) Até R$ 10,00 por mês
+
+    Você tem alguma sugestão ou comentário sobre o que gostaria de ver em um novo aplicativo de to-do list?
+        Gostaria de um sistema de relatórios para acompanhar meu progresso ao longo do tempo.
